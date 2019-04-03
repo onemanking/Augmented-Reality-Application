@@ -35,16 +35,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/SampleScene.unity
+    guid: 7d4302e3d8a5bf0409886411670a53aa
   m_configObjects: {}
